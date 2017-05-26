@@ -1,0 +1,48 @@
+name:               "Noelle A. Held"
+description:        "Updates from Sea"
+
+url:                ""
+author:             "Noelle"
+email:              "nheld@whoi.edu"
+gravatar_hash:      "1cc653b2c78cf97ede9018ebc65d228f"
+email:              "nheld@whoi.edu"
+github:             "naheld"
+linkedin:           "noelleheld"
+
+disqus_shortname:   "naheld"
+
+background:         "http://i734.photobucket.com/albums/ww347/noellegoestorussia/background.jpg"
+
+paginate:           5
+paginate_path:      "/page:num/"
+
+baseurl:            ""
+permalink:          /:year/:month/:day/:title/
+
+markdown:           kramdown
+
+nav:
+  - name:           "About"
+    href:           "http://www.mit.edu/~nheld/"
+  - name:           "CV"
+    href:           "https://naheld.github.io/markdown-cv/"
+
+sass:
+  style:            :compressed
+
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+gems:
+  - jekyll-paginate

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Noelle A. Held</title>
+		<link></link>
+		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Welcome!</title>
+        <description>&lt;p class=&quot;lead&quot;&gt;I&#39;ll be at sea on the &lt;a href=&quot;http://noc.ac.uk/facilities/ships/rrs-james-cook&quot;&gt;R.R.S. James Cook&lt;/a&gt; this summer.&lt;/p&gt;
+
+&lt;p&gt;The goal of the project, informally known as “Ziploc,” is to study interactions among zinc, iron and phosphate in the subtropical Atlantic.&lt;/p&gt;
+
+&lt;p&gt;Phosphate is becoming increasingly scarce in the ocean. Marine microbes, which need phosphate to grow, have developed an entrepreneurial way to acquire phosphate from organic matter, using the enzyme &lt;a href=&quot;https://en.wikipedia.org/wiki/Alkaline_phosphatase&quot;&gt;alkaline phosphatase.&lt;/a&gt; Alkaline phosphatase requires zinc and/or iron to function, so it is important to consider the distribution of these metals in the ocean, and the associated impact on phytoplankton growth. This will help us to understand and prepare for anthropogenic effects on the ocean. We are going to the &lt;a href=&quot;https://en.wikipedia.org/wiki/North_Atlantic_Gyre&quot;&gt;North Atlantic gyre&lt;/a&gt; to study these complex interactions.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned for more background, updates, and photos.&lt;/p&gt;
+</description>
+				<pubDate>Tue, 07 Jun 2016 00:00:00 -0400</pubDate>
+				<link>/2016/06/07/whats-jekyll/</link>
+				<guid isPermaLink="true">/2016/06/07/whats-jekyll/</guid>
+			</item>
+		
+	</channel>
+</rss>
